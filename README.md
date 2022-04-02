@@ -29,6 +29,7 @@ https://dadosabertos.capes.gov.br/dataset/629aa27e-141d-4e7a-abbe-
 bolsistas-uab-2013-a-2016.pdf
 
 Etapa 1 – Enunciado
+
 Para ganhar a bolsa os candidatos precisam fazer algumas provas, são elas:
 Conhecimento Gerais (CG), Conhecimento Específicos (CE), Português (P) e Matemática
 (M). Cada prova tem a duração de 50 minutos e podem ser alocadas de hora em hora.
@@ -39,28 +40,37 @@ Devido ao número reduzido de fiscais:
 após a prova de Conhecimento Gerais.
  As provas de Matemática e Conhecimento Específico devem ser em horários
 consecutivos, nessa ordem.
+
 Questão 1. Se a prova de CG for às 8:00, a prova de M deverá ser às:
-(A) 9:00
+
+(A) 9:00 
 (B) 10:00
 (C) 11:00
+
 Questão 2. Se as provas CG e P forem respectivamente às 8:00 e 9:00, a prova de
 CE deve ser:
+
 (A) 10:00
 (B) 8:00
 (C) 11:00
 (D) 9:00
+
 Questão 3. Qual das seguintes afirmações é necessariamente verdadeira
+
 (A) A prova de P é após a prova de CE.
 (B) A prova de M pode ser realizada antes da prova de P.
 (C) A prova de CG é a primeira e a de CE é a última a ser realizada.
 (D) Se mudar a prova de CG para 10:00 então a prova de M deve ser as 8:00.
+
 (continua...)
 
 Etapa 2 - Enunciado
+
 Nesta etapa, você vai escrever um programa de computador. Para isso deve ser feita a
 leitura do arquivo .csv enviado junto com este enunciado. Neste arquivo você encontra
 dados sobre bolsas de estudo no Brasil. Você deve implementar as seguintes
 funcionalidades:
+
 1. [Consultar bolsa zero/Ano] Permitir que o usuário informe o ano que desejar e como
 resultado o programa deverá exibir:
 a. As informações sobre o bolsista zero, ou seja, o primeiro bolsista daquele
